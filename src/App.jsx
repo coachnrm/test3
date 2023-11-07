@@ -15,6 +15,7 @@ function App() {
     <>
       <div>
         <h1 style={mystyle}>hello world</h1>
+        <h2> good morning</h2>
       </div>
     </>
   )
